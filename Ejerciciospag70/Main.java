@@ -36,7 +36,5 @@ public class Main {
         } else {
             System.out.println("No se ingresaron números.");
         }*/
-
-        // Ejercicio 2: un programa que lea una cadena y la invierta.
     }
 }
